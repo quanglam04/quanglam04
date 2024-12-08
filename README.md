@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Profile views](https://komarev.com/ghpvc/?username=quanglam04&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=quanglam04&label=Profile%20views&color=green&style=plastic)
+
 <!--
 **quanglam04/quanglam04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
