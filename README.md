@@ -4,8 +4,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=quanglam04&label=Profile%20views&color=red&style=plastic)
 
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanglam04&layout=compact&langs_count=4&theme=radical" alt="Top Languages" />
-</div>
+
 
 
 <!--
